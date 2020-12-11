@@ -1,1 +1,1 @@
-# _project_starter_
+# Boilerplate for mini projects
